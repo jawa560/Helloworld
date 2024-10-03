@@ -48,7 +48,7 @@
       }
   }
 ```
-progrmas.cs 內容不用修改，應該如下:
+programs.cs 內容不用修改，應該如下:
 ```
 var builder = WebApplication.CreateBuilder(args);
 
