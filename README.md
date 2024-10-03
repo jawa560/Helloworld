@@ -9,6 +9,7 @@
 
 ![image](https://github.com/jawa560/Helloworld/blob/master/images/create_2.png?raw=true)
 
+我們要實現 URL\helloworld 能看到hello world 的結果，需實作控制器的路由， 
 輸入程式碼如下:
 ```
   using Microsoft.AspNetCore.Mvc;
@@ -18,7 +19,7 @@
       [ApiController]
       public class HelloWorldController : ControllerBase
       {
-          // GET: api/<HelloWorldController>
+          // GET: <HelloWorldController>
           [HttpGet]
           public string Get()
           {
