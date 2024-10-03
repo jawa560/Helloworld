@@ -9,7 +9,7 @@
 
 ![image](https://github.com/jawa560/Helloworld/blob/master/images/create_2.png?raw=true)
 
-我們要實現 URL\helloworld 能看到hello world 的結果，需實作控制器的路由， 
+我們要實現 URL\helloworld 能看到hello world 的結果，需實作**控制器(Controller)*的**路由(Route)**， 
 輸入程式碼如下:
 ```
   using Microsoft.AspNetCore.Mvc;
