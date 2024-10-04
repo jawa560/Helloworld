@@ -1,6 +1,7 @@
 # James 的第一支 Helloworld web api by .net 8.0
 ## 建立方式
 
+在這個範例中，我們將使用.NET 8.0 實作一個 MVC WEP API，藉由**路由器**來實現中轉
 在 Visual Studio 建立新專案 web api 
 
 ![image](https://github.com/jawa560/Helloworld/blob/master/images/create_1.png?raw=true)
